@@ -4,7 +4,6 @@
 
 ### 1. Создание виртуального окружения и установка зависимостей
 
-```bash
 python -m venv venv
 source venv/bin/activate      # Для Windows используйте: venv\Scripts\activate
 pip install -r requirements.txt
